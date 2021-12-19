@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Александра\source\repos\lab6,8\lab6,8\Source.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6,8\lab6,8\Source.cpp(22,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6,8\lab6,8\Source.cpp(23,27): warning C4018: <: несоответствие типов со знаком и без знака
+  lab6,8.vcxproj -> C:\Users\Александра\source\repos\lab6,8\Debug\lab6,8.exe

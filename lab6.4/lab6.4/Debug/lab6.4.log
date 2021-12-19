@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(13,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(23,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(33,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(43,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(73,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(82,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(91,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(100,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(109,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(118,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(127,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(136,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(145,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(154,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александра\source\repos\lab6.4\lab6.4\Source.cpp(159,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lab6.4.vcxproj -> C:\Users\Александра\source\repos\lab6.4\Debug\lab6.4.exe
